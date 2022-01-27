@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-###I'm a .NET Full-Stack Software Engineer in Kalutara, Sri Lanka.
+I'm a .NET Full-Stack Software Engineer in Kalutara, Sri Lanka.
