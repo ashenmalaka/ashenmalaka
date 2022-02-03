@@ -1,11 +1,11 @@
-### Hi there 👋
+### Hi there, I am Ashen Malaka 👋
 
 <!--
 **ashenmalaka/ashenmalaka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working as an Associate Software Engineer at Davton Consulting
+- 🔭 I’m currently working ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
@@ -15,4 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### I'm a .NET Full-Stack Software Engineer.
+### I'm an Aspirant .NET Full-Stack Software Engineer.
+🎓 Final Year Software Enginerring Undergraduate at University of Kelaniya, Sri Lanka: To be Graduated on 2022
+✅ Completed internship as a Trainee Software Engineer at Flintec Transducers Pvt Ltd. (August 2020 - April 2021)
+👨‍💻 I’m currently working as an Associate Software Engineer at Davton Consulting (April 2021 - Present) 
+💻 Have experience in C#, .NET, JavaScript, TypeScript, React, React-Native(Beginner)
+🕐 I use daily: .cs, .js, .jsx, .html,
