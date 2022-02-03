@@ -16,8 +16,8 @@ Here are some ideas to get you started:
 -->
 
 ### I'm an Aspirant .NET Full-Stack Software Engineer.
-🎓 Final Year Software Enginerring Undergraduate at University of Kelaniya, Sri Lanka: To be Graduated on 2022
-✅ Completed internship as a Trainee Software Engineer at Flintec Transducers Pvt Ltd. (August 2020 - April 2021)
-👨‍💻 I’m currently working as an Associate Software Engineer at Davton Consulting (April 2021 - Present) 
-💻 Have experience in C#, .NET, JavaScript, TypeScript, React, React-Native(Beginner)
-🕐 I use daily: .cs, .js, .jsx, .html,
+- 🎓 Final Year Software Enginerring Undergraduate at University of Kelaniya, Sri Lanka: To be Graduated on 2022
+- ✅ Completed internship as a Trainee Software Engineer at Flintec Transducers Pvt Ltd. (August 2020 - April 2021)
+- 👨‍💻 I’m currently working as an Associate Software Engineer at Davton Consulting (April 2021 - Present) 
+- 💻 Have experience in C#, .NET, JavaScript, TypeScript, React, React-Native(Beginner)
+- 🕐 I use daily: .cs, .js, .jsx, .html,
